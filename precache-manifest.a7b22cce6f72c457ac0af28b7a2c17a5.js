@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac30df87a46b05ff4514ffd1f34b5590",
+    "revision": "85951748e30d36cfc66a5b02f624a076",
     "url": "/la-mer-egee-carte/index.html"
   },
   {
-    "revision": "9de0475b5d0d93e6d138",
+    "revision": "184bfa131492ed369be5",
     "url": "/la-mer-egee-carte/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/la-mer-egee-carte/static/js/2.2acd1a33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9de0475b5d0d93e6d138",
-    "url": "/la-mer-egee-carte/static/js/main.4da03698.chunk.js"
+    "revision": "184bfa131492ed369be5",
+    "url": "/la-mer-egee-carte/static/js/main.54312c6e.chunk.js"
   },
   {
     "revision": "c5fdd062ee8ed81a79f2",
