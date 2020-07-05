@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/la-mer-egee-carte/static/css/main.5f361e03.chunk.css",
+    "main.js": "/la-mer-egee-carte/static/js/main.4da03698.chunk.js",
+    "main.js.map": "/la-mer-egee-carte/static/js/main.4da03698.chunk.js.map",
+    "runtime-main.js": "/la-mer-egee-carte/static/js/runtime-main.36c64d0d.js",
+    "runtime-main.js.map": "/la-mer-egee-carte/static/js/runtime-main.36c64d0d.js.map",
+    "static/js/2.2acd1a33.chunk.js": "/la-mer-egee-carte/static/js/2.2acd1a33.chunk.js",
+    "static/js/2.2acd1a33.chunk.js.map": "/la-mer-egee-carte/static/js/2.2acd1a33.chunk.js.map",
+    "index.html": "/la-mer-egee-carte/index.html",
+    "precache-manifest.d2dd87080b1f96c63d1836ac52a37d92.js": "/la-mer-egee-carte/precache-manifest.d2dd87080b1f96c63d1836ac52a37d92.js",
+    "service-worker.js": "/la-mer-egee-carte/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/la-mer-egee-carte/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2acd1a33.chunk.js.LICENSE.txt": "/la-mer-egee-carte/static/js/2.2acd1a33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36c64d0d.js",
+    "static/js/2.2acd1a33.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4da03698.chunk.js"
+  ]
+}
