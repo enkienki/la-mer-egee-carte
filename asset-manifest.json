@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/la-mer-egee-carte/static/css/main.5f361e03.chunk.css",
-    "main.js": "/la-mer-egee-carte/static/js/main.54312c6e.chunk.js",
-    "main.js.map": "/la-mer-egee-carte/static/js/main.54312c6e.chunk.js.map",
+    "main.css": "/la-mer-egee-carte/static/css/main.d0062f3a.chunk.css",
+    "main.js": "/la-mer-egee-carte/static/js/main.32a95712.chunk.js",
+    "main.js.map": "/la-mer-egee-carte/static/js/main.32a95712.chunk.js.map",
     "runtime-main.js": "/la-mer-egee-carte/static/js/runtime-main.36c64d0d.js",
     "runtime-main.js.map": "/la-mer-egee-carte/static/js/runtime-main.36c64d0d.js.map",
-    "static/js/2.2acd1a33.chunk.js": "/la-mer-egee-carte/static/js/2.2acd1a33.chunk.js",
-    "static/js/2.2acd1a33.chunk.js.map": "/la-mer-egee-carte/static/js/2.2acd1a33.chunk.js.map",
+    "static/js/2.0763c155.chunk.js": "/la-mer-egee-carte/static/js/2.0763c155.chunk.js",
+    "static/js/2.0763c155.chunk.js.map": "/la-mer-egee-carte/static/js/2.0763c155.chunk.js.map",
     "index.html": "/la-mer-egee-carte/index.html",
-    "precache-manifest.a7b22cce6f72c457ac0af28b7a2c17a5.js": "/la-mer-egee-carte/precache-manifest.a7b22cce6f72c457ac0af28b7a2c17a5.js",
+    "precache-manifest.362ceeb8cef1e01efd4a89f767c8407f.js": "/la-mer-egee-carte/precache-manifest.362ceeb8cef1e01efd4a89f767c8407f.js",
     "service-worker.js": "/la-mer-egee-carte/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/la-mer-egee-carte/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2acd1a33.chunk.js.LICENSE.txt": "/la-mer-egee-carte/static/js/2.2acd1a33.chunk.js.LICENSE.txt"
+    "static/css/main.d0062f3a.chunk.css.map": "/la-mer-egee-carte/static/css/main.d0062f3a.chunk.css.map",
+    "static/js/2.0763c155.chunk.js.LICENSE.txt": "/la-mer-egee-carte/static/js/2.0763c155.chunk.js.LICENSE.txt",
+    "static/media/carte-1.jpg": "/la-mer-egee-carte/static/media/carte-1.39b91c00.jpg",
+    "static/media/carte-2.jpg": "/la-mer-egee-carte/static/media/carte-2.e8e5d041.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.36c64d0d.js",
-    "static/js/2.2acd1a33.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.54312c6e.chunk.js"
+    "static/js/2.0763c155.chunk.js",
+    "static/css/main.d0062f3a.chunk.css",
+    "static/js/main.32a95712.chunk.js"
   ]
 }

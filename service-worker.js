@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/la-mer-egee-carte/precache-manifest.a7b22cce6f72c457ac0af28b7a2c17a5.js"
+  "/la-mer-egee-carte/precache-manifest.362ceeb8cef1e01efd4a89f767c8407f.js"
 );
 
 self.addEventListener('message', (event) => {
